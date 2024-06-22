@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# videos
+
+match_video_91084.mp4
+
 # Distribution / packaging
 .Python
 build/
